@@ -7,7 +7,7 @@ Mi nombre es Sebastián Flórez, ¡Bienvenidos a mi perfil de GitHub!
 Soy una persona lógica, de rápido aprendizaje y comprensión,
 con un pensamiento orientado a las ciencias exactas, con fuertes 
 principios y valores éticos, alta calidad humana y pese a ser un tanto 
-tímido, tengo un excelente manejo de relaciones interpersonales.
+introvertido, tengo un excelente manejo de relaciones interpersonales.
 <br><br>Académicamente, una vez me gradué del colegio comencé a estudiar ingeniería química, después de completar 6 semestres decidí cambiar de rumbo hacia
 la ingeniería de sistemas pero la pausé durante algunos semestres para inscribirme en el bootcamp SoyHenry en el rol de desarrollo full stack con el objetivo 
 de en un futuro cercano, continuar con mi carrera mientras me desempeño en el sector.
