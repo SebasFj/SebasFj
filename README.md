@@ -26,6 +26,32 @@ Junto a un gran grupo de trabajo, creamos una aplicación que te permite encontr
 
 [Repositorio](https://github.com/Gasnis/Grupo13-PF)
 
+## Skills
+
+### Tech
+- Javascript
+- HTML
+- CSS
+- React
+- Redux
+- Node.js
+- Express.js
+- Sequalize
+- PostreSQL
+
+### Soft
+- Razonamiento lógico
+- Toma de decisiones
+- Trabajo en equipo
+- Liderazgo
+- Desarrollo de equipos de alto desempeño
+- Comunicación efectiva
+- Aprendizaje continuo
+- Consecución de objetivos
+- Orientación al cliente
+
+
+
 ## Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/sebasfj/)
